@@ -1,5 +1,4 @@
 # Solar Tracker
-============
 
 This page provides information about the project developed at UTFPR, Brazil, called Solar Tracker. Experiments were carried out in practice in a laboratory testbed, and the data contained in this Github repository were collected in those experiments. The paper ["Dual-axis solar tracker with photovoltaic energyprocessing for education"](http://www.anvargas.com/blog) describes the details of this experiment.
 
