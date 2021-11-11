@@ -14,8 +14,7 @@ For more details about the experimental data, as long as the academic publicatio
 Installation
 ============
 
-1. Upload the source code in Arduino Uno.
-2. Follow the steps to construct the MagLev, according to the corresponding paper, visit [the project page](http://www.anvargas.com/blog) for further details.
+1. Upload the source code in dsPIC33EV256GM104. Contact the authors to know more details on how to do so or visit [the project page](http://www.anvargas.com/blog) for further details.
 
 
 More information
